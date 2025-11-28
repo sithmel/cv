@@ -1,0 +1,109 @@
+# Maurizio Lupo
+
+## Personal Profile
+Old school programmer,  open source fanatic, self taught. Manager by accident and enjoying it. I believe in the open web as a platform of the future (and present). 
+
+## Personal Data
+Date of birth: 21st of March 1977
+Live in:  126, Howth Drive – Woodley Berkshire RG5 3DL (UK)
+Citizenship: Italian and British
+Languages: Italian and English 
+Phone:+44 777.86.71.978 
+Email: maurizio.lupo@gmail.com
+Links: https://www.linkedin.com/in/mauriziolupo, https://www.npmjs.com/~sithmel, https://github.com/sithmel
+
+## Job experiences
+([ILPT - Infinitas Learning group](https://www.infinitaslearning.com/))
+2023/3 – now: Senior engineer manager
+Designing and implementing career path, performance evaluation, main processes (kanban lean, SVPG product organisation). Coaching Engineer managers and Tech leads. Handling interview process and performance. Driving culture and technology strategy.
+
+[Meta (Facebook)](https://www.meta.com/gb/)
+2021/1 - 2023/3: Senior Software engineer
+Workplace: working in the Knowledge Library team
+Workrooms: working on the Whiteboard collaboration tool, used on Web, mobile and desktop app.
+
+[Bourne Leisure Ltd](https://www.linkedin.com/company/bourne-leisure/posts/?feedView=all)
+2020/1 - 2021/1 Head of engineering
+Leading a team of 28 engineers split in 5 product teams. Most of my work was hiring and coaching the teams, define the technology direction and the remote way of working (started during the pandemic).
+
+[TES Global](https://www.tes.com/en-gb)
+2018/3 – 2019/12 Principal Engineer
+Leading multiple teams (Marketplace, Talent Match, Martech, Enhance).
+
+2015/11 – 2018/2 Senior Software Engineer
+Registration platform, organisation management application. website rebrand, frontend performance optimisation, school portal, core infrastructure (page composition layer, frontend optimisation) (stack: node.js microservices, react)  Team leader and mentoring junior developers.
+
+[dailymail.co.uk](https://www.dailymail.co.uk/)
+2013/10 – 2015/10 Software Developer
+Mobile and desktop web site (CSS, JS, and build configuration with grunt, backend changes using Clojure), Front end performance optimizations (I have coordinated a small team for speeding up the web site, with good results), new HTML5 videoplayer (JS, CSS, gulp, mocha, karma, sinon, videojs), Interactive maps for elections (SVG, node.js, leveldb, pm2).
+
+Freelancer
+2013 – 2013/10	Freelancer
+thick client Javascript applications (Backbone.js, require.js twitter bootstrap, HTML5 API)
+
+Redomino
+2010 – 2013/10	Web developer
+Plone add-on products (Zope/Python), Python standalone tools and applications - Javascript plugin development (Javascript and jQuery) - Facebook application development using HTML5 (expecially canvas) – Responsive Web design (CSS) - GNU/Linux administration (Debian/Red Hat) - coaching in advanced Python/Plone/Javascript courses. 
+
+[Reale Mutua Assicurazioni](https://www.realegroup.eu)
+1998 – 2009	Software developer
+Applications to emit policies and print them (for agencies, not direct sales).
+
+ELTEC electronics
+1997(7 months)	Software developer
+Software for a drainpipe cutting machine (Z80 Assembly)
+
+## Open source
+
+JS	- space-tree: a quadtree implementation for fast spatial queries
+	- async-define: an AMD implementation for coordinating execution of multiple scripts (and webpack, rollup plugins) 
+	- async-deco (and memoize-cache): asynchronous decorator toolkit
+	- iter-tools: the iterators toolkit for js (I am the original author, but I passed the role of maintainer)
+	- occamsrazor.js: a plugin system for Javascript
+	- diesis: a dependency injection framework
+	and many others. I have also contributed to various other projects: videojs, ramjet, hammerjs, reveal.js, Backbone.IO, compoxure, bosco etc.
+Python	Release manager and main contributor of Ploomcake (http://github.com/ploomcake) an opensource CMS derived from Plone. I contributed to many open source Python projects submitting patches
+
+## Public Speaking
+I spoke at meetups (https://skillsmatter.com/skillscasts/11362-microservices-for-the-frontend).
+And on multiple editions of “Linux day, Turin” “Python: how to become an hacker” (2009), “HTML5: The new frontiers of the web” (2010), “Hello Node.js” (2012 - http://presentz.org/linuxdaytorino12/hello_node_ajpkk)
+
+## Writing
+Writing	I wrote articles in Italian and English on both web and print (LinuxPro). I have contributed to the second edition of  "The Definitive guide to Plone"  (Apress 2009).
+
+## Coaching
+I managed courses and taught Python, Javascript and Web technologies for the Prometeo Association (Turin).
+
+Education
+2022	Machine Learning: course by Stanford (Andrew NG) (online on Coursera)
+2015 - 2016	Algorithm: design and analisys. part 1, part 2 (online on Coursera)
+2006	Linux certification - "Red Hat Certified Engineer" n.804006653422036 
+1997	Course: "Microprocessor systems, Industrial automation" at ITIS J.C. Maxwell Turin - Italy
+1996	Diploma in "Computer science" at "ITIS G. Peano" (BTEC equivalent) Turin - Italy
+
+## Languages
+Italian and English
+
+## Current professional knowledge
+    • Javascript and the most used libraries and frameworks (React in particular but I used many others in the past)
+    • browser as software platform (HTML, CSS, frontend performance analysis and optimization) 
+    • knowledge of node.js and its software ecosystem
+    • HTTP and REST
+    • Experiences as a team leader, coach mentor and release manager
+    • TDD methodology and unit test frameworks
+    • Agile and lean practices
+    • Microservices architecture
+    • RUST/WASM at beginner level
+Past professional knowledge
+    • Python and the most used Python libraries
+    • Zope and Plone platform (both as developer and system administrator)
+    • Experiences with Django and Google App Engine
+    • Databases. (Mysql, Posgresql, Oracle, MSSQL) and nosql databases (CouchDB and Redis)
+    • Creation and use of Web Services (SOAP, XML-RPC e REST) and thorough knowledge of HTTP protocol
+    • Administration of  Linux systems (Debian e Red Hat). Web servers in particular (apache, nginx, varnish, haproxy).
+    • Basic knowledge of many others programming languages  (C, Java, Visual Basic, Assembler, PHP, Bash,  Clojure)
+
+# Other interests
+I have played guitar, bass guitar and flute since I was 11. I performed and currently perform in various different contexts (blues/jazz/folk etc).
+I volunteer at the local parish church in the choir and as a catechist for both children (confirmation, alpha groups) and adults (RCIA, marriage preparation).
+In the past, I worked as sound technician (about 40 live concerts between 1996 – 1998). I worked as a volunteer for special needs adult between 1998 - 2000.
